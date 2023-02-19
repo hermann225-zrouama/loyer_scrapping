@@ -1,0 +1,1686 @@
+1676499037101	geckodriver	INFO	Listening on 127.0.0.1:52014
+1676499037422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52015" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilezh4r6s"
+1676499038022	Marionette	INFO	Marionette enabled
+1676499038228	Marionette	INFO	Listening on port 52026
+Read port: 52026
+WebDriver BiDi listening on ws://127.0.0.1:52015
+1676499038362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilezh4r6s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52015/devtools/browser/0cc98ac3-f07f-4761-afb8-f51c88bdf34b
+1676499727580	geckodriver	INFO	Listening on 127.0.0.1:52293
+1676499728097	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52294" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileKUwml2"
+1676499728556	Marionette	INFO	Marionette enabled
+1676499728739	Marionette	INFO	Listening on port 52299
+WebDriver BiDi listening on ws://127.0.0.1:52294
+Read port: 52299
+1676499728950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileKUwml2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52294/devtools/browser/b6aa3002-d538-442f-94d6-997173147caf
+1676500249490	geckodriver	INFO	Listening on 127.0.0.1:52528
+1676500249999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52529" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileIFGpk4"
+1676500250438	Marionette	INFO	Marionette enabled
+1676500250625	Marionette	INFO	Listening on port 52534
+Read port: 52534
+WebDriver BiDi listening on ws://127.0.0.1:52529
+1676500250728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileIFGpk4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52529/devtools/browser/6e0c6541-0e3a-49df-a4d1-f95550f4b820
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676500320271	geckodriver	INFO	Listening on 127.0.0.1:52609
+1676500320780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52610" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile73MPLH"
+1676500321221	Marionette	INFO	Marionette enabled
+1676500321410	Marionette	INFO	Listening on port 52615
+WebDriver BiDi listening on ws://127.0.0.1:52610
+Read port: 52615
+1676500321621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile73MPLH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52610/devtools/browser/dc5efb40-92a5-49b4-abfa-5d964d1fbb35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676500369594	geckodriver	INFO	Listening on 127.0.0.1:52682
+1676500370103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52683" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDrMZNv"
+1676500370542	Marionette	INFO	Marionette enabled
+1676500370732	Marionette	INFO	Listening on port 52688
+WebDriver BiDi listening on ws://127.0.0.1:52683
+Read port: 52688
+1676500370997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDrMZNv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52683/devtools/browser/d68b553a-c381-4864-a5e0-247f97bb2380
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676500405049	geckodriver	INFO	Listening on 127.0.0.1:52759
+1676500405555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52760" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilejT9EL3"
+1676500406007	Marionette	INFO	Marionette enabled
+1676500406195	Marionette	INFO	Listening on port 52767
+WebDriver BiDi listening on ws://127.0.0.1:52760
+Read port: 52767
+1676500406388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilejT9EL3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52760/devtools/browser/614f38e0-fe45-4628-9d78-cc3ef15c5397
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676500506904	geckodriver	INFO	Listening on 127.0.0.1:52851
+1676500507410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52852" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileNMIiX6"
+1676500507869	Marionette	INFO	Marionette enabled
+1676500508061	Marionette	INFO	Listening on port 52857
+WebDriver BiDi listening on ws://127.0.0.1:52852
+Read port: 52857
+1676500508259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileNMIiX6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52852/devtools/browser/b607b5ab-1be6-4c81-b156-410d989b0c3b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676500573641	geckodriver	INFO	Listening on 127.0.0.1:52927
+1676500574152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52928" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilepDra5Q"
+1676500574612	Marionette	INFO	Marionette enabled
+1676500574805	Marionette	INFO	Listening on port 52933
+WebDriver BiDi listening on ws://127.0.0.1:52928
+Read port: 52933
+1676500574932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilepDra5Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52928/devtools/browser/ff0bd68d-6f65-48b2-8ac5-c39ad120edb6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676500653548	geckodriver	INFO	Listening on 127.0.0.1:53019
+1676500654060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53020" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileh0kPFv"
+1676500654522	Marionette	INFO	Marionette enabled
+1676500654713	Marionette	INFO	Listening on port 53025
+WebDriver BiDi listening on ws://127.0.0.1:53020
+Read port: 53025
+1676500654910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileh0kPFv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53020/devtools/browser/ac10d814-2afb-48e1-9d8b-18724fc8d10d
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676500703982	geckodriver	INFO	Listening on 127.0.0.1:53092
+1676500704489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53093" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileHyBDAp"
+1676500704948	Marionette	INFO	Marionette enabled
+1676500705138	Marionette	INFO	Listening on port 53098
+WebDriver BiDi listening on ws://127.0.0.1:53093
+Read port: 53098
+1676500705348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileHyBDAp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53093/devtools/browser/4580e3cd-dd5a-4a05-9497-aa6aa86c3b95
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1676500729260	geckodriver	INFO	Listening on 127.0.0.1:53171
+1676500729769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53172" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileTdakgV"
+1676500730263	Marionette	INFO	Marionette enabled
+1676500730361	Marionette	INFO	Listening on port 53177
+Read port: 53177
+WebDriver BiDi listening on ws://127.0.0.1:53172
+1676500730473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileTdakgV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53172/devtools/browser/3e9273cf-0ea2-4a2a-a658-f1a6d4174136
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676500855365	geckodriver	INFO	Listening on 127.0.0.1:53274
+1676500855869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53275" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilemXI5AS"
+1676500856387	Marionette	INFO	Marionette enabled
+1676500856484	Marionette	INFO	Listening on port 53282
+Read port: 53282
+WebDriver BiDi listening on ws://127.0.0.1:53275
+1676500856601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilemXI5AS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53275/devtools/browser/d2509b7b-d6c6-403d-82d2-349affbc0132
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 205: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 205: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 205: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 205: TypeError: rule is undefined
+1676501059176	Marionette	INFO	Stopped listening on port 53282
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676501061652	Marionette	INFO	Stopped listening on port 53177
+1676501072821	Marionette	INFO	Stopped listening on port 53098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501077859	Marionette	INFO	Stopped listening on port 52299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501080346	Marionette	INFO	Stopped listening on port 52534
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501083456	Marionette	INFO	Stopped listening on port 52615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501086541	Marionette	INFO	Stopped listening on port 52688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501089249	Marionette	INFO	Stopped listening on port 52767
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501092173	Marionette	INFO	Stopped listening on port 52857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501094937	Marionette	INFO	Stopped listening on port 52933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676501097914	Marionette	INFO	Stopped listening on port 53025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676502010233	geckodriver	INFO	Listening on 127.0.0.1:53743
+1676502010744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53744" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileIvlRi3"
+1676502011250	Marionette	INFO	Marionette enabled
+1676502011381	Marionette	INFO	Listening on port 53749
+WebDriver BiDi listening on ws://127.0.0.1:53744
+Read port: 53749
+1676502011550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileIvlRi3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53744/devtools/browser/da0a00db-f23a-4c71-97ae-feb781f7d40e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676502083971	Marionette	INFO	Stopped listening on port 53749
+1676502235128	geckodriver	INFO	Listening on 127.0.0.1:53864
+1676502235637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53865" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileyvEF5z"
+1676502235922	Marionette	INFO	Marionette enabled
+1676502236056	Marionette	INFO	Listening on port 53870
+WebDriver BiDi listening on ws://127.0.0.1:53865
+Read port: 53870
+1676502236223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileyvEF5z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53865/devtools/browser/2e6568cf-318c-4f93-ad28-82d6eb1321d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1   HIToolbox                           0x000000019ef505c8 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 120
+2   HIToolbox                           0x000000019ef50188 _ZN15MenuBarInstance14EnableAutoShowEv + 60
+3   HIToolbox                           0x000000019eebd8bc _ZN15MenuBarInstance21UpdateAggregateUIModeE21MenuBarAnimationStylehhh + 1184
+4   HIToolbox                           0x000000019ef50004 _ZN15MenuBarInstance19SetFullScreenUIModeEjj + 180
+5   AppKit                              0x0000000198d46008 -[NSApplication _setPresentationOptions:instance:flags:] + 956
+6   AppKit                              0x0000000198bdbbb0 -[NSApplication _updateFullScreenPresentationOptionsForInstance:] + 404
+7   CoreFoundation                      0x00000001957fd570 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__ + 148
+8   CoreFoundation                      0x000000019589b054 ___CFXRegistrationPost_block_invoke + 88
+9   CoreFoundation                      0x000000019589af9c _CFXRegistrationPost + 440
+10  CoreFoundation                      0x00000001957ceb74 _CFXNotificationPost + 708
+11  Foundation                          0x00000001966bc72c -[NSNotificationCenter postNotificationName:object:userInfo:] + 88
+12  AppKit                              0x0000000198d4658c spacesNotificationHandler + 96
+13  SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+14  SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+15  SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+16  libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+17  libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+18  libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+19  libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+20  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+21  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+22  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+23  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+24  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+25  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+26  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+27  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+28  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+29  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+30  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+31  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+32  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+33  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+34  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+35  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+36  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019eedb90c _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 44
+2   HIToolbox                           0x000000019ef1a478 _ZL17BroadcastInternaljPvh + 184
+3   SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+4   SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+5   SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+6   libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+7   libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+8   libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+9   libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+10  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+11  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+12  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+13  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+14  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+15  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+16  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+17  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+18  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+19  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+20  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+21  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+22  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+23  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+24  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+25  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+26  dyld                                0x00000001953ffe50 start + 2544
+1676502368525	Marionette	INFO	Stopped listening on port 52026
+1   HIToolbox                           0x000000019ef505c8 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 120
+2   HIToolbox                           0x000000019eebd8c8 _ZN15MenuBarInstance21UpdateAggregateUIModeE21MenuBarAnimationStylehhh + 1196
+3   HIToolbox                           0x000000019ef50004 _ZN15MenuBarInstance19SetFullScreenUIModeEjj + 180
+4   AppKit                              0x0000000198d46008 -[NSApplication _setPresentationOptions:instance:flags:] + 956
+5   AppKit                              0x0000000198bdbbb0 -[NSApplication _updateFullScreenPresentationOptionsForInstance:] + 404
+6   CoreFoundation                      0x00000001957fd570 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__ + 148
+7   CoreFoundation                      0x000000019589b054 ___CFXRegistrationPost_block_invoke + 88
+8   CoreFoundation                      0x000000019589af9c _CFXRegistrationPost + 440
+9   CoreFoundation                      0x00000001957ceb74 _CFXNotificationPost + 708
+10  Foundation                          0x00000001966bc72c -[NSNotificationCenter postNotificationName:object:userInfo:] + 88
+11  AppKit                              0x0000000198d4658c spacesNotificationHandler + 96
+12  SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+13  SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+14  SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+15  libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+16  libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+17  libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+18  libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+19  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+20  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+21  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+22  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+23  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+24  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+25  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+26  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+27  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+28  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+29  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+30  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+31  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+32  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+33  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+34  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+35  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019eedb90c _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 44
+2   HIToolbox                           0x000000019eebd8c8 _ZN15MenuBarInstance21UpdateAggregateUIModeE21MenuBarAnimationStylehhh + 1196
+3   HIToolbox                           0x000000019eebd30c _ZN15MenuBarInstance16ForEachMenuBarDoEU13block_pointerFvPS_E + 72
+4   HIToolbox                           0x000000019eebd2b4 _ZL25UpdateAllAggregateUIModes21MenuBarAnimationStyleh + 120
+5   HIToolbox                           0x000000019eebd228 SetSystemUIMode + 140
+6   AppKit                              0x0000000198d46018 -[NSApplication _setPresentationOptions:instance:flags:] + 972
+7   AppKit                              0x0000000198bdbbc8 -[NSApplication _updateFullScreenPresentationOptionsForInstance:] + 428
+8   CoreFoundation                      0x00000001957fd570 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__ + 148
+9   CoreFoundation                      0x000000019589b054 ___CFXRegistrationPost_block_invoke + 88
+10  CoreFoundation                      0x000000019589af9c _CFXRegistrationPost + 440
+11  CoreFoundation                      0x00000001957ceb74 _CFXNotificationPost + 708
+12  Foundation                          0x00000001966bc72c -[NSNotificationCenter postNotificationName:object:userInfo:] + 88
+13  AppKit                              0x0000000198d4658c spacesNotificationHandler + 96
+14  SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+15  SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+16  SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+17  libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+18  libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+19  libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+20  libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+21  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+22  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+23  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+24  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+25  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+26  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+27  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+28  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+29  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+30  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+31  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+32  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+33  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+34  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+35  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+36  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+37  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019ef505c8 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 120
+2   HIToolbox                           0x000000019ef1a478 _ZL17BroadcastInternaljPvh + 184
+3   SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+4   SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+5   SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+6   libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+7   libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+8   libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+9   libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+10  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+11  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+12  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+13  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+14  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+15  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+16  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+17  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+18  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+19  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+20  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+21  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+22  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+23  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+24  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+25  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+26  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019eedb90c _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 44
+2   HIToolbox                           0x000000019eebd8c8 _ZN15MenuBarInstance21UpdateAggregateUIModeE21MenuBarAnimationStylehhh + 1196
+3   HIToolbox                           0x000000019eebd30c _ZN15MenuBarInstance16ForEachMenuBarDoEU13block_pointerFvPS_E + 72
+4   HIToolbox                           0x000000019eebd2b4 _ZL25UpdateAllAggregateUIModes21MenuBarAnimationStyleh + 120
+5   HIToolbox                           0x000000019eebd228 SetSystemUIMode + 140
+6   AppKit                              0x0000000198d46018 -[NSApplication _setPresentationOptions:instance:flags:] + 972
+7   AppKit                              0x0000000198bdbbc8 -[NSApplication _updateFullScreenPresentationOptionsForInstance:] + 428
+8   CoreFoundation                      0x00000001957fd570 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__ + 148
+9   CoreFoundation                      0x000000019589b054 ___CFXRegistrationPost_block_invoke + 88
+10  CoreFoundation                      0x000000019589af9c _CFXRegistrationPost + 440
+11  CoreFoundation                      0x00000001957ceb74 _CFXNotificationPost + 708
+12  Foundation                          0x00000001966bc72c -[NSNotificationCenter postNotificationName:object:userInfo:] + 88
+13  AppKit                              0x0000000198d4658c spacesNotificationHandler + 96
+14  SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+15  SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+16  SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+17  libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+18  libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+19  libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+20  libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+21  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+22  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+23  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+24  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+25  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+26  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+27  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+28  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+29  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+30  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+31  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+32  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+33  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+34  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+35  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+36  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+37  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019ef505c8 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 120
+2   HIToolbox                           0x000000019ef1a478 _ZL17BroadcastInternaljPvh + 184
+3   SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+4   SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+5   SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+6   libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+7   libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+8   libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+9   libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+10  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+11  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+12  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+13  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+14  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+15  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+16  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+17  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+18  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+19  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+20  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+21  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+22  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+23  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+24  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+25  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+26  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019eedb90c _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 44
+2   HIToolbox                           0x000000019eebd8c8 _ZN15MenuBarInstance21UpdateAggregateUIModeE21MenuBarAnimationStylehhh + 1196
+3   HIToolbox                           0x000000019eebd30c _ZN15MenuBarInstance16ForEachMenuBarDoEU13block_pointerFvPS_E + 72
+4   HIToolbox                           0x000000019eebd2b4 _ZL25UpdateAllAggregateUIModes21MenuBarAnimationStyleh + 120
+5   HIToolbox                           0x000000019eebd228 SetSystemUIMode + 140
+6   AppKit                              0x0000000198d46018 -[NSApplication _setPresentationOptions:instance:flags:] + 972
+7   AppKit                              0x0000000198bdbbc8 -[NSApplication _updateFullScreenPresentationOptionsForInstance:] + 428
+8   CoreFoundation                      0x00000001957fd570 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__ + 148
+9   CoreFoundation                      0x000000019589b054 ___CFXRegistrationPost_block_invoke + 88
+10  CoreFoundation                      0x000000019589af9c _CFXRegistrationPost + 440
+11  CoreFoundation                      0x00000001957ceb74 _CFXNotificationPost + 708
+12  Foundation                          0x00000001966bc72c -[NSNotificationCenter postNotificationName:object:userInfo:] + 88
+13  AppKit                              0x0000000198d4658c spacesNotificationHandler + 96
+14  SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+15  SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+16  SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+17  libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+18  libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+19  libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+20  libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+21  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+22  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+23  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+24  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+25  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+26  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+27  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+28  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+29  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+30  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+31  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+32  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+33  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+34  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+35  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+36  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+37  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019ef505c8 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 120
+2   HIToolbox                           0x000000019ef1a478 _ZL17BroadcastInternaljPvh + 184
+3   SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+4   SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+5   SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+6   libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+7   libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+8   libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+9   libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+10  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+11  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+12  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+13  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+14  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+15  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+16  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+17  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+18  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+19  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+20  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+21  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+22  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+23  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+24  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+25  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+26  dyld                                0x00000001953ffe50 start + 2544
+1   HIToolbox                           0x000000019eedb90c _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 44
+2   HIToolbox                           0x000000019eebd8c8 _ZN15MenuBarInstance21UpdateAggregateUIModeE21MenuBarAnimationStylehhh + 1196
+3   HIToolbox                           0x000000019eebd30c _ZN15MenuBarInstance16ForEachMenuBarDoEU13block_pointerFvPS_E + 72
+4   HIToolbox                           0x000000019eebd2b4 _ZL25UpdateAllAggregateUIModes21MenuBarAnimationStyleh + 120
+5   HIToolbox                           0x000000019eebd228 SetSystemUIMode + 140
+6   AppKit                              0x0000000198d46018 -[NSApplication _setPresentationOptions:instance:flags:] + 972
+7   AppKit                              0x0000000198bdbbc8 -[NSApplication _updateFullScreenPresentationOptionsForInstance:] + 428
+8   CoreFoundation                      0x00000001957fd570 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__ + 148
+9   CoreFoundation                      0x000000019589b054 ___CFXRegistrationPost_block_invoke + 88
+10  CoreFoundation                      0x000000019589af9c _CFXRegistrationPost + 440
+11  CoreFoundation                      0x00000001957ceb74 _CFXNotificationPost + 708
+12  Foundation                          0x00000001966bc72c -[NSNotificationCenter postNotificationName:object:userInfo:] + 88
+13  AppKit                              0x0000000198d4658c spacesNotificationHandler + 96
+14  SkyLight                            0x000000019a4304dc _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 896
+15  SkyLight                            0x000000019a75c4c4 _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 228
+16  SkyLight                            0x000000019a75c3c0 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 28
+17  libdispatch.dylib                   0x00000001955a09dc _dispatch_call_block_and_release + 32
+18  libdispatch.dylib                   0x00000001955a2504 _dispatch_client_callout + 20
+19  libdispatch.dylib                   0x00000001955b0d1c _dispatch_main_queue_drain + 928
+20  libdispatch.dylib                   0x00000001955b096c _dispatch_main_queue_callback_4CF + 44
+21  CoreFoundation                      0x0000000195849d50 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+22  CoreFoundation                      0x00000001958077d0 __CFRunLoopRun + 2036
+23  CoreFoundation                      0x0000000195806888 CFRunLoopRunSpecific + 612
+24  HIToolbox                           0x000000019eedbfa0 RunCurrentEventLoopInMode + 292
+25  HIToolbox                           0x000000019eedbde4 ReceiveNextEventCommon + 672
+26  HIToolbox                           0x000000019eedbb2c _BlockUntilNextEventMatchingListInModeWithFilter + 72
+27  AppKit                              0x0000000198a88424 _DPSNextEvent + 632
+28  AppKit                              0x0000000198a875b4 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 728
+29  XUL                                 0x0000000111c20cb4 _ZN14nsXPTCStubBase7Stub249Ev + 13916916
+30  AppKit                              0x0000000198a7b9e4 -[NSApplication run] + 464
+31  XUL                                 0x0000000111c21a20 _ZN14nsXPTCStubBase7Stub249Ev + 13920352
+32  XUL                                 0x0000000115e9fcb0 workerlz4_decompress + 400444
+33  XUL                                 0x000000011224d23c workerlz4_maxCompressedSize + 525688
+34  XUL                                 0x0000000115f17e6c workerlz4_decompress + 892408
+35  XUL                                 0x0000000115f18250 workerlz4_decompress + 893404
+36  firefox-bin                         0x00000001000ef038 firefox-bin + 28728
+37  dyld                                0x00000001953ffe50 start + 2544
+1676502815457	Marionette	INFO	Stopped listening on port 53870
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676502905882	geckodriver	INFO	Listening on 127.0.0.1:54110
+1676502906396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54111" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileoYeRhT"
+1676502906705	Marionette	INFO	Marionette enabled
+1676502906751	Marionette	INFO	Listening on port 54116
+Read port: 54116
+WebDriver BiDi listening on ws://127.0.0.1:54111
+1676502906895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileoYeRhT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54111/devtools/browser/8e709bab-e595-45f1-b81c-94fb88a3a82f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676502953048	geckodriver	INFO	Listening on 127.0.0.1:54204
+1676502953564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54205" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDR3aTy"
+1676502953851	Marionette	INFO	Marionette enabled
+1676502953988	Marionette	INFO	Listening on port 54210
+WebDriver BiDi listening on ws://127.0.0.1:54205
+Read port: 54210
+1676502954149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDR3aTy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54205/devtools/browser/7d69556b-61f3-4450-bee4-84fcbd3e111f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676502976945	Marionette	INFO	Stopped listening on port 54210
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676502983099	Marionette	INFO	Stopped listening on port 54116
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676503171352	geckodriver	INFO	Listening on 127.0.0.1:54322
+1676503171868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54323" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilenNxXEU"
+1676503172179	Marionette	INFO	Marionette enabled
+1676503172311	Marionette	INFO	Listening on port 54328
+WebDriver BiDi listening on ws://127.0.0.1:54323
+Read port: 54328
+1676503172475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilenNxXEU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54323/devtools/browser/d5d9d108-f786-4e2d-8266-307a05e987c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676503255298	geckodriver	INFO	Listening on 127.0.0.1:54419
+1676503255808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54420" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile3BRGPM"
+1676503256130	Marionette	INFO	Marionette enabled
+1676503256174	Marionette	INFO	Listening on port 54425
+Read port: 54425
+WebDriver BiDi listening on ws://127.0.0.1:54420
+1676503256270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile3BRGPM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54420/devtools/browser/c9a1e7a9-8b42-4bc2-80d3-79321b4cb268
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dexecuter%2Bun%2Bscript%2Bpython%2Bdans%2Bun%2Benvironnement%2Bpython%26ei%3D4mjtY66pIK6Mxc8PxvCAqAY%26oq%3Dexecuter%2Bun%2Bscript%2Bpython%2Bdans%2Bun%2Benv%26gs_lcp%3DCgxnd3Mtd2l6LXNlcnAQAxgCMgUIIRCgATIFCCEQoAEyBQghEKABMgUIIRCgATIFCCEQoAEyCwghEBYQHhDxBBAdMggIIRAWEB4QHTILCCEQFhAeEPEEEB0yCwghEBYQHhDxBBAdMgsIIRAWEB4Q8QQQHToLCAAQgAQQsQMQgwE6CAgAELEDEIMBOggIABCABBCxAzoFCAAQgAQ6EAguEK8BEMcBEKYDEKgDEEM6BAgAEEM6DQguENQCEKgDEJ0DEEM6EAguENQCEJsDEKgDENIDEEM6BwgAELEDEEM6CQgAEEMQRhD5AToHCAAQgAQQCjoJCAAQFhAeEPEEOgYIABAWEB46CwgAEBYQHhAPEPEESgQIQRgAUNQMWI5TYPpxaAFwAHgBgAHUA4gBvV-SAQgyLTguMjguMZgBAKABAbABAMABAQ%26sclient%3Dgws-wiz-serp&q=EgRp629JGKLVtZ8GIjBy1YRdRaOiGB8weZULS4NSp30LJMbdhfRFV-udUtKzaHpuffsZU3-iZh5lCwGkvtMyAXI, line 1: SyntaxError: expected expression, got ','
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676503761134	Marionette	INFO	Stopped listening on port 54425
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676503994583	geckodriver	INFO	Listening on 127.0.0.1:54731
+1676503995090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54732" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile6c45OK"
+1676503995396	Marionette	INFO	Marionette enabled
+1676503995530	Marionette	INFO	Listening on port 54737
+WebDriver BiDi listening on ws://127.0.0.1:54732
+Read port: 54737
+1676503995687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile6c45OK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54732/devtools/browser/e2c6f598-4478-4e95-b2fa-6d94e7676e51
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DvWvtY6aGKaTXxc8P94WKqAQ%26iflsig%3DAK50M_UAAAAAY-15zSP6g360EmMV-jFxIGYZEkETbYcf%26ved%3D0ahUKEwjm2PuJ2Jj9AhWka_EDHfeCAkUQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFglYCxoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGMDXtZ8GIjBp-uKhaCwvxU--chJzKFuzO6rWa8rf4Xglp7mxMYCdDKqwOfwK094ZmXBIAjNcemAyAXI, line 1: SyntaxError: expected expression, got ','
+1676504016264	Marionette	INFO	Stopped listening on port 54737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676504018864	Marionette	INFO	Stopped listening on port 54328
+1676504023518	geckodriver	INFO	Listening on 127.0.0.1:54785
+1676504024036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54786" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile2789Zd"
+1676504024325	Marionette	INFO	Marionette enabled
+1676504024456	Marionette	INFO	Listening on port 54791
+Read port: 
+1676504024456	geckodriver::browser	WARN	Failed fo convert  to u16
+WebDriver BiDi listening on ws://127.0.0.1:54786
+Read port: 54791
+1676504024619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile2789Zd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54786/devtools/browser/b166ca24-7d19-42c6-893f-d5524bc50cbc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3D2mvtY6GhG-m6xc8P4paoeA%26iflsig%3DAK50M_UAAAAAY-156iLg7uL5xnashYNfMSbpK7HGQxmv%26ved%3D0ahUKEwih9teX2Jj9AhVpXfEDHWILCg8Q4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFglYCxoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGN3XtZ8GIjCjKclQ5xPXcahw_TQ0DSHbkEjG4xQHXcP9Dl3ZFhqWXsIl9YiGVoBQjl3Yj8tjc4YyAXI, line 1: SyntaxError: expected expression, got ','
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676504066662	Marionette	INFO	Stopped listening on port 54791
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676504073157	geckodriver	INFO	Listening on 127.0.0.1:54854
+1676504073675	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54855" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile713Cmh"
+1676504073979	Marionette	INFO	Marionette enabled
+1676504074115	Marionette	INFO	Listening on port 54860
+WebDriver BiDi listening on ws://127.0.0.1:54855
+Read port: 54860
+1676504074274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile713Cmh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54855/devtools/browser/d9c1c88e-9c92-485c-971b-ccbb010dbd15
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DC2ztY92tN6aD9u8PpYKSiAM%26iflsig%3DAK50M_UAAAAAY-16G_2Dn5kQhgLjc-o0-mlPXKFhFMdI%26ved%3D0ahUKEwid36Kv2Jj9AhWmgf0HHSWBBDEQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFglYCxoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGI7YtZ8GIjBJH-mE-auWzxQ7ALe91GQBTab8WN756xGF3zWYRcpMvMvASA76bY_qQPSmEfzhfMEyAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: chrome://browser/content/browser.js, line 4848: TypeError: gBrowser is undefined
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+JavaScript error: chrome://browser/content/browser.js, line 4848: TypeError: gBrowser is undefined
+1676504460061	Marionette	INFO	Stopped listening on port 54860
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676504913580	geckodriver	INFO	Listening on 127.0.0.1:55238
+1676504914087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55239" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQ0gB2E"
+1676504914381	Marionette	INFO	Marionette enabled
+1676504914427	Marionette	INFO	Listening on port 55244
+Read port: 55244
+WebDriver BiDi listening on ws://127.0.0.1:55239
+1676504914572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQ0gB2E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55239/devtools/browser/62a35f7d-bc33-4bd5-85d6-dc5aecd60147
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DVG_tY9XSH4WBxc8Px_S7gA0%26iflsig%3DAK50M_UAAAAAY-19ZKZPGbsXsLHV6nxhdRPmuRsNdeY3%26ved%3D0ahUKEwjVzI3A25j9AhWFQPEDHUf6DtAQ4dUDCAg%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgiYCloAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGNfetZ8GIjCvh4tke4Ou1hPvcPqIYrR5Wo2tWnnu65C3--LjH62gN3gVp7s0o9_b79nYONHbVy4yAXI, line 1: SyntaxError: expected expression, got ','
+1676505095202	geckodriver	INFO	Listening on 127.0.0.1:55344
+1676505095722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55345" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilef0zsEW"
+1676505096356	Marionette	INFO	Marionette enabled
+1676505096566	Marionette	INFO	Listening on port 55350
+WebDriver BiDi listening on ws://127.0.0.1:55345
+Read port: 55350
+1676505096790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilef0zsEW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55345/devtools/browser/5268c379-4920-4468-a661-9888d8bd1992
+1676505097968	geckodriver	INFO	Listening on 127.0.0.1:55358
+1676505098477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55359" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile7ieqI5"
+1676505098775	Marionette	INFO	Marionette enabled
+1676505098904	Marionette	INFO	Listening on port 55368
+WebDriver BiDi listening on ws://127.0.0.1:55359
+Read port: 55368
+1676505099064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile7ieqI5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55359/devtools/browser/4ab5a785-8662-47a9-bc8b-20afcd1826fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676505182864	Marionette	INFO	Stopped listening on port 55368
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676505185748	Marionette	INFO	Stopped listening on port 55350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676505191063	Marionette	INFO	Stopped listening on port 55244
+1676505196815	geckodriver	INFO	Listening on 127.0.0.1:55479
+1676505197330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55480" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileocfEeU"
+1676505197773	Marionette	INFO	Marionette enabled
+1676505197954	Marionette	INFO	Listening on port 55485
+WebDriver BiDi listening on ws://127.0.0.1:55480
+Read port: 55485
+1676505198216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileocfEeU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55480/devtools/browser/fa131275-226a-49fb-acce-4493bd676e65
+1676505199146	geckodriver	INFO	Listening on 127.0.0.1:55491
+1676505199654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55492" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile9tB25o"
+1676505199943	Marionette	INFO	Marionette enabled
+1676505200070	Marionette	INFO	Listening on port 55503
+WebDriver BiDi listening on ws://127.0.0.1:55492
+Read port: 55503
+1676505200231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile9tB25o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55492/devtools/browser/33834142-9f6f-4267-94bd-5611b6f2c50f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DcnDtY_2XM66Pxc8PicyXyAs%26iflsig%3DAK50M_UAAAAAY-1-gnqNlLoTPvdO_4aUBGw0NCzCn_wJ%26ved%3D0ahUKEwj9mNHI3Jj9AhWuR_EDHQnmBbkQ4dUDCAg%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522Yopougon%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgnYC1oAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGPXgtZ8GIjAzOtv0mrZFAXPAEa1v0dDFUsc57JerSTx7fv6Wa0Y_NS3g31gNr4QZ3FSXQz9Dgv8yAXI, line 1: SyntaxError: expected expression, got ','
+1676505217485	Marionette	INFO	Stopped listening on port 55503
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676505221641	Marionette	INFO	Stopped listening on port 55485
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676505556731	geckodriver	INFO	Listening on 127.0.0.1:55682
+1676505557246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55683" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilexU3svx"
+WebDriver BiDi listening on ws://127.0.0.1:55683
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55683/devtools/browser/fb76153e-0301-4825-b37f-377d0b49feee
+1676505745380	geckodriver	INFO	Listening on 127.0.0.1:55773
+1676505751994	geckodriver	INFO	Listening on 127.0.0.1:55778
+1676505752506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55779" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileHfJPoo"
+1676505752810	Marionette	INFO	Marionette enabled
+1676505752942	Marionette	INFO	Listening on port 55784
+WebDriver BiDi listening on ws://127.0.0.1:55779
+Read port: 55784
+1676505753099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileHfJPoo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55779/devtools/browser/a6dddaae-7270-4476-9c81-4d9ccb9ec542
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676506554885	geckodriver	INFO	Listening on 127.0.0.1:56086
+1676506555400	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56087" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQ5pNLc"
+1676506555718	Marionette	INFO	Marionette enabled
+1676506555843	Marionette	INFO	Listening on port 56094
+WebDriver BiDi listening on ws://127.0.0.1:56087
+Read port: 56094
+1676506556004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQ5pNLc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56087/devtools/browser/45b7ed2b-1e37-4369-a3ed-929f2e28da49
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676506773351	geckodriver	INFO	Listening on 127.0.0.1:56240
+1676506773861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56241" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile0QPh7J"
+1676506774353	Marionette	INFO	Marionette enabled
+1676506774545	Marionette	INFO	Listening on port 56257
+Read port: 56257
+WebDriver BiDi listening on ws://127.0.0.1:56241
+1676506774652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile0QPh7J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56241/devtools/browser/06cd38fb-c46c-4af0-b15f-49b60d6b0a91
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676506794550	Marionette	INFO	Stopped listening on port 55784
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676506798895	Marionette	INFO	Stopped listening on port 56094
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676506804002	Marionette	INFO	Stopped listening on port 56257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676507016630	geckodriver	INFO	Listening on 127.0.0.1:56391
+1676507017140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56392" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFLbzMK"
+1676507017439	Marionette	INFO	Marionette enabled
+1676507017483	Marionette	INFO	Listening on port 56397
+Read port: 56397
+WebDriver BiDi listening on ws://127.0.0.1:56392
+1676507017578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFLbzMK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56392/devtools/browser/e8b913af-c3c6-47f1-b5b1-1dd20cdb0fa9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676507327518	geckodriver	INFO	Listening on 127.0.0.1:56546
+1676507328026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56547" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5vSFzH"
+1676507328369	Marionette	INFO	Marionette enabled
+1676507328421	Marionette	INFO	Listening on port 56552
+Read port: 56552
+WebDriver BiDi listening on ws://127.0.0.1:56547
+1676507328503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5vSFzH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56547/devtools/browser/4287e194-9055-49e6-8fd5-1733c704cc47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1676507481618	Marionette	INFO	Stopped listening on port 56552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676507484942	Marionette	INFO	Stopped listening on port 56397
+1676507488293	geckodriver	INFO	Listening on 127.0.0.1:56664
+1676507488800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56665" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQGMGux"
+1676507489165	Marionette	INFO	Marionette enabled
+1676507489294	Marionette	INFO	Listening on port 56670
+Read port: 56670
+WebDriver BiDi listening on ws://127.0.0.1:56665
+1676507489350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQGMGux/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56665/devtools/browser/952d8bcf-e4dc-4c04-86c3-9c41878fc4ca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676507647198	Marionette	INFO	Stopped listening on port 56670
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450946/customhighlighter87, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:645:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nunhighlightNode/<@resource://devtools/client/inspector/boxmodel/actions/box-model-highlighter.js:81:36\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\nonMouseOut@resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js:488:35\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.sys.mjs:2268:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.sys.mjs:2177:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:754:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:906:15\nwait@resource://gre/modules/AsyncShutdown.jsm:887:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:554:10\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676507652403	geckodriver	INFO	Listening on 127.0.0.1:56766
+1676507652914	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56767" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilezGJwoV"
+1676507653215	Marionette	INFO	Marionette enabled
+1676507653347	Marionette	INFO	Listening on port 56772
+WebDriver BiDi listening on ws://127.0.0.1:56767
+Read port: 56772
+1676507653504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilezGJwoV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56767/devtools/browser/3aedebc8-6243-4df7-b51b-1406e191a082
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676507748753	geckodriver	INFO	Listening on 127.0.0.1:56865
+1676507749258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56866" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileZe4PRG"
+1676507749544	Marionette	INFO	Marionette enabled
+1676507749675	Marionette	INFO	Listening on port 56871
+WebDriver BiDi listening on ws://127.0.0.1:56866
+Read port: 56871
+1676507749839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileZe4PRG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56866/devtools/browser/ca855dc9-d864-41c0-a2c6-2015d0b3e516
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676508000008	Marionette	INFO	Stopped listening on port 56871
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676508007481	geckodriver	INFO	Listening on 127.0.0.1:57006
+1676508007990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57007" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqUEu7d"
+1676508008310	Marionette	INFO	Marionette enabled
+1676508008439	Marionette	INFO	Listening on port 57012
+WebDriver BiDi listening on ws://127.0.0.1:57007
+Read port: 57012
+1676508008596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqUEu7d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57007/devtools/browser/bcd84122-d07a-4de1-942d-9757cedd819a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676508081605	Marionette	INFO	Stopped listening on port 57012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676508091234	geckodriver	INFO	Listening on 127.0.0.1:57097
+1676508091745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57098" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileNecbhp"
+1676508092312	Marionette	INFO	Marionette enabled
+1676508092512	Marionette	INFO	Listening on port 57103
+Read port: 57103
+WebDriver BiDi listening on ws://127.0.0.1:57098
+1676508092622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileNecbhp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57098/devtools/browser/5f95b5a2-9116-4102-982a-cd92cc43d384
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676509873621	Marionette	INFO	Stopped listening on port 57103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676509896423	geckodriver	INFO	Listening on 127.0.0.1:57669
+1676509896942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57670" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFY5K0k"
+1676509897410	Marionette	INFO	Marionette enabled
+1676509897593	Marionette	INFO	Listening on port 57675
+WebDriver BiDi listening on ws://127.0.0.1:57670
+Read port: 57675
+1676509897779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFY5K0k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57670/devtools/browser/6bead71f-0b23-4dc9-b177-a4762fb0d1ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676510071072	Marionette	INFO	Stopped listening on port 57675
+1676511109051	geckodriver	INFO	Listening on 127.0.0.1:58063
+1676511109561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58064" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileygRkpq"
+1676511110018	Marionette	INFO	Marionette enabled
+1676511110202	Marionette	INFO	Listening on port 58069
+WebDriver BiDi listening on ws://127.0.0.1:58064
+Read port: 58069
+1676511110417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileygRkpq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58064/devtools/browser/0bb6d6c2-4a77-4f6a-bf89-42468e033a42
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676513733304	Marionette	INFO	Stopped listening on port 58069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676514678501	geckodriver	INFO	Listening on 127.0.0.1:58925
+1676514679017	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58926" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileuumzOj"
+1676514679656	Marionette	INFO	Marionette enabled
+1676514679863	Marionette	INFO	Listening on port 58933
+WebDriver BiDi listening on ws://127.0.0.1:58926
+Read port: 58933
+1676514680044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileuumzOj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58926/devtools/browser/c8509d07-e767-4633-92d3-abf20d3f7a0c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676514713480	Marionette	INFO	Stopped listening on port 58933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676514730520	geckodriver	INFO	Listening on 127.0.0.1:58995
+1676514731034	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58996" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileghwMSV"
+1676514731499	Marionette	INFO	Marionette enabled
+1676514731679	Marionette	INFO	Listening on port 59001
+WebDriver BiDi listening on ws://127.0.0.1:58996
+Read port: 59001
+1676514731887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileghwMSV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58996/devtools/browser/4119dbe2-d9f0-40dc-8fa0-13ab928684fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1676515235642	Marionette	INFO	Stopped listening on port 59001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676515240412	geckodriver	INFO	Listening on 127.0.0.1:59209
+1676515240923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59210" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDeHvWm"
+1676515241386	Marionette	INFO	Marionette enabled
+1676515241566	Marionette	INFO	Listening on port 59215
+WebDriver BiDi listening on ws://127.0.0.1:59210
+Read port: 59215
+1676515241755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDeHvWm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59210/devtools/browser/68810a83-d94a-4370-b432-e3b6f72d905c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676515743529	Marionette	INFO	Stopped listening on port 59215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
