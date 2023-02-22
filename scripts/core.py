@@ -83,7 +83,7 @@ class Scrapinator:
 
         try:
             for i, token in enumerate(doc):
-                if token.text.endswith("fr") or token.text.endswith("f") or token.text.endswith("0"):
+                if token.text.endswith("fr") or token.text.endswith("f") or token.text.endswith("0") or token.text.endswith("francs") or token.text.endswith("franc") or token.text.endswith("cfa") or token.text.endswith("frcfa"):
                     self.scrapping_results["loyer"] = token.text
                     break
                 elif token.text.lower() == "loyer":
@@ -103,7 +103,7 @@ class Scrapinator:
             if l:
                 term = l[0]
                 subtree = [t for t in term.subtree]
-                pieces = [t for t in subtree if t.text.lower() == "pièces" or t.text.lower() == "fr cfa" or t.text.lower() == "franc cfa" or t.text.lower() == "francs cfa" or t.text.lower() == "francs cfa"]
+                pieces = [t for t in subtree if t.text.lower() == "pièces" or t.text.lower() == "pieces" or t.text.lower() == "pcs" or t.text.lower() == "chambres" or t.text.lower() == "chambre"]
                 if pieces:
                     nb_piece = pieces[0].nbor(-1)
                     if nb_piece.like_num == True:
@@ -123,11 +123,14 @@ class Scrapinator:
         # EXTRACTION TYPE DE LOGEMENT
         try:
             for i, token in enumerate(doc):
-                if token.text.lower() == "immeuble" or token.text.lower() == "étage":
+                if token.text.lower() == "immeuble" or token.text.lower() == "étage" or token.text.lower() == "etage":
                     self.scrapping_results["type_logement"] = "immeuble"
                     break
-                elif token.text.lower() == "maison":
+                elif token.text.lower() == "appartement" or token.text.lower() == "appart" or token.text.lower() == "app" or token.text.lower() == "appartement":
                     self.scrapping_results["type_logement"] = "appartement"
+                    break
+                elif token.text.lower() == "maison":
+                    self.scrapping_results["type_logement"] = "maison basse"
                     break
         except:
             pass
@@ -151,7 +154,7 @@ class Scrapinator:
                     self.scrapping_results["standing"] = token.text
                     break
         except:
-            pass    
+            pass
         return self.scrapping_results
 
     def transformer(self):
@@ -176,8 +179,13 @@ class Scrapinator:
         self.data_features = pd.DataFrame(self.data_features.apply(pd.Series))
         print("Dimensions du dataframe : ")
         print(self.data_features.shape)
-        self.data_features.to_csv("data/resultat.csv", index=False, encoding="utf-8",)
-        self.data_features.head(50)
+        # load data/resultat.csv
+        old_data = pd.read_csv("data/resultat.csv")
+        # append new data
+        self.data_features = old_data.append(self.data_features, ignore_index=True)
+        # suppression des doublons
+        self.data_features.drop_duplicates(subset=['lien'], keep='first', inplace=True)
+        self.data_features.to_csv("data/resultat.csv", index=False)
         return self.data_features
 
 

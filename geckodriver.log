@@ -13240,3 +13240,1323 @@ interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mj
 webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
 A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
 1676837810054	Marionette	INFO	Stopped listening on port 56257
+1676891330180	geckodriver	INFO	Listening on 127.0.0.1:53829
+1676891330702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53830" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile4ZZguT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676891331097	Marionette	INFO	Marionette enabled
+1676891331147	Marionette	INFO	Listening on port 53835
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53830
+Read port: 53835
+1676891331345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile4ZZguT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53830/devtools/browser/1a15e61a-0fd1-4522-9d97-2a0ff7abf7c4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1676891356682	geckodriver	INFO	Listening on 127.0.0.1:53910
+1676891356682	geckodriver	INFO	Listening on 127.0.0.1:53914
+1676891356682	geckodriver	INFO	Listening on 127.0.0.1:53906
+1676891356683	geckodriver	INFO	Listening on 127.0.0.1:53918
+1676891356683	geckodriver	INFO	Listening on 127.0.0.1:53924
+1676891356683	geckodriver	INFO	Listening on 127.0.0.1:53908
+1676891356683	geckodriver	INFO	Listening on 127.0.0.1:53912
+1676891356683	geckodriver	INFO	Listening on 127.0.0.1:53920
+1676891356683	geckodriver	INFO	Listening on 127.0.0.1:53916
+1676891356683	geckodriver	INFO	Listening on 127.0.0.1:53922
+1676891356699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53917" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJPXjZi"
+1676891356699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53909" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileaScFkt"
+1676891356700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53911" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilebdaELB"
+1676891356700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53915" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile8RWLqf"
+1676891356700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53907" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileorllb4"
+1676891356700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53919" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5gkm4E"
+1676891356700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53925" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqZRlAn"
+1676891356700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53921" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileld82Jf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676891357190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53913" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile7I1oks"
+1676891357198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53923" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileHItUO8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676891357430	Marionette	INFO	Marionette enabled
+1676891357442	Marionette	INFO	Marionette enabled
+1676891357444	Marionette	INFO	Marionette enabled
+1676891357450	Marionette	INFO	Marionette enabled
+1676891357451	Marionette	INFO	Marionette enabled
+1676891357452	Marionette	INFO	Marionette enabled
+1676891357458	Marionette	INFO	Marionette enabled
+1676891357527	Marionette	INFO	Marionette enabled
+1676891357559	Marionette	INFO	Listening on port 53955
+1676891357561	Marionette	INFO	Listening on port 53956
+Read port: 53955
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1676891357586	Marionette	INFO	Listening on port 53958
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1676891357612	Marionette	INFO	Listening on port 53959
+1676891357633	Marionette	INFO	Listening on port 53960
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53960
+Read port: 53958
+Read port: 53956
+Read port: 53959
+1676891357680	Marionette	INFO	Marionette enabled
+1676891357682	Marionette	INFO	Marionette enabled
+1676891357686	Marionette	INFO	Listening on port 53965
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1676891357714	Marionette	INFO	Listening on port 53966
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1676891357739	Marionette	INFO	Listening on port 53967
+WebDriver BiDi listening on ws://127.0.0.1:53921
+WebDriver BiDi listening on ws://127.0.0.1:53919
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53917
+Read port: 53966
+Read port: 53967
+WebDriver BiDi listening on ws://127.0.0.1:53911
+Read port: 53965
+1676891357809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676891357829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:53907
+1676891357853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:53909
+WebDriver BiDi listening on ws://127.0.0.1:53925
+1676891357882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676891357927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:53915
+1676891357954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676891357970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676891357985	Marionette	INFO	Listening on port 53974
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1676891358027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 53974
+1676891358142	Marionette	INFO	Listening on port 53981
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53981
+WebDriver BiDi listening on ws://127.0.0.1:53913
+1676891358402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:53923
+1676891358466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileorllb4/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqZRlAn/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileld82Jf/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5gkm4E/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilebdaELB/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53907/devtools/browser/c2e441a7-f17b-4e27-b066-c95041f0ce96
+DevTools listening on ws://127.0.0.1:53925/devtools/browser/6578ec08-47a2-49f3-b38b-19c9fef5feb3
+DevTools listening on ws://127.0.0.1:53921/devtools/browser/854c00a7-58be-40a1-b31d-2c0e8314d102
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53919/devtools/browser/a12e40aa-3098-409c-b63a-370abd7e941a
+DevTools listening on ws://127.0.0.1:53911/devtools/browser/98b6e989-577b-4824-b44a-84b12d8c96ee
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileaScFkt/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile8RWLqf/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile7I1oks/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJPXjZi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53909/devtools/browser/f41c164a-c866-42d3-a8be-1687579b7a6a
+DevTools listening on ws://127.0.0.1:53915/devtools/browser/c46d1b57-907a-4cc7-9be8-aa7641bf5f44
+DevTools listening on ws://127.0.0.1:53913/devtools/browser/402c6ffe-11c3-4c67-9771-acb9af00d82b
+DevTools listening on ws://127.0.0.1:53917/devtools/browser/64d72354-159f-4269-85f0-e73e7962e82a
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileHItUO8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53923/devtools/browser/74dd300b-3e0e-4448-a9ee-624908329494
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677024205151	geckodriver	INFO	Listening on 127.0.0.1:53265
+1677024205664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53266" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilesyk17r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677024206101	Marionette	INFO	Marionette enabled
+1677024206154	Marionette	INFO	Listening on port 53273
+Read port: 53273
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53266
+1677024206242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilesyk17r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53266/devtools/browser/fdc77833-3708-47b2-ace2-43d327f62fb7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677024281650	geckodriver	INFO	Listening on 127.0.0.1:53377
+1677024281652	geckodriver	INFO	Listening on 127.0.0.1:53381
+1677024281652	geckodriver	INFO	Listening on 127.0.0.1:53373
+1677024281653	geckodriver	INFO	Listening on 127.0.0.1:53383
+1677024281653	geckodriver	INFO	Listening on 127.0.0.1:53379
+1677024281653	geckodriver	INFO	Listening on 127.0.0.1:53385
+1677024281653	geckodriver	INFO	Listening on 127.0.0.1:53375
+1677024281654	geckodriver	INFO	Listening on 127.0.0.1:53387
+1677024281658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53378" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDkl2hY"
+1677024281658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53382" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileWq2Xh4"
+1677024281661	geckodriver	INFO	Listening on 127.0.0.1:53409
+1677024281666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53410" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofiler9mYdg"
+1677024281683	geckodriver	INFO	Listening on 127.0.0.1:53415
+1677024281687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53416" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileMJAlji"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677024282067	Marionette	INFO	Marionette enabled
+1677024282070	Marionette	INFO	Marionette enabled
+1677024282087	Marionette	INFO	Marionette enabled
+1677024282099	Marionette	INFO	Marionette enabled
+1677024282135	Marionette	INFO	Listening on port 53426
+1677024282156	Marionette	INFO	Listening on port 53429
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677024282183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53380" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile9mLwS6"
+1677024282187	Marionette	INFO	Listening on port 53452
+1677024282188	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53374" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile4twX5V"
+Read port: 53426
+1677024282200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53388" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilexyLv0D"
+1677024282204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53376" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileC336tT"
+1677024282204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53384" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileER0RPe"
+Read port: 53429
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677024282234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53386" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilerKFvdQ"
+WebDriver BiDi listening on ws://127.0.0.1:53410
+1677024282267	Marionette	INFO	Listening on port 53455
+Read port: 53455
+WebDriver BiDi listening on ws://127.0.0.1:53416
+Read port: 53452
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53378
+WebDriver BiDi listening on ws://127.0.0.1:53382
+1677024282344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677024282347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677024282359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677024282400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677024282919	Marionette	INFO	Marionette enabled
+1677024282944	Marionette	INFO	Marionette enabled
+1677024282959	Marionette	INFO	Marionette enabled
+1677024282965	Marionette	INFO	Marionette enabled
+1677024282977	Marionette	INFO	Marionette enabled
+1677024283015	Marionette	INFO	Marionette enabled
+1677024283039	Marionette	INFO	Listening on port 53466
+Read port: 53466
+1677024283044	Marionette	INFO	Listening on port 53468
+1677024283045	Marionette	INFO	Listening on port 53469
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677024283068	Marionette	INFO	Listening on port 53470
+Read port: 53470
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53468
+1677024283145	Marionette	INFO	Listening on port 53473
+Read port: 53469
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53473
+WebDriver BiDi listening on ws://127.0.0.1:53376
+1677024283264	Marionette	INFO	Listening on port 53477
+WebDriver BiDi listening on ws://127.0.0.1:53380
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677024283294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:53374
+WebDriver BiDi listening on ws://127.0.0.1:53388
+1677024283372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 53477
+WebDriver BiDi listening on ws://127.0.0.1:53386
+WebDriver BiDi listening on ws://127.0.0.1:53384
+1677024283432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677024283445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677024283498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677024283510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofiler9mYdg/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileMJAlji/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53410/devtools/browser/59396b1c-06d9-40ea-8d09-be918db28398
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileWq2Xh4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53416/devtools/browser/e8552156-e2c7-4e4f-afb1-81458869b96d
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDkl2hY/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53382/devtools/browser/6229c2b7-71df-4359-bd6c-6f5bbd51f0e4
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile4twX5V/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53378/devtools/browser/02fc1789-46fd-452b-8317-23d17d79fe2a
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile9mLwS6/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilexyLv0D/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileER0RPe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53374/devtools/browser/24f65a78-40dc-41cd-8a39-2cb9d9fa3d45
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53380/devtools/browser/0427da9a-a403-4d88-b115-1c3a33c81e5b
+DevTools listening on ws://127.0.0.1:53388/devtools/browser/7b8b9afc-7f57-47fa-ae79-1ffc36a8077d
+DevTools listening on ws://127.0.0.1:53384/devtools/browser/3e9d2b18-beaa-420b-b5f8-699fd338bc88
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileC336tT/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilerKFvdQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53376/devtools/browser/9c20fa26-96e6-471b-9b61-a9106cd86bac
+DevTools listening on ws://127.0.0.1:53386/devtools/browser/ff9e1b8d-9650-4a29-a4f1-f8ae70782fa5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677024315851	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677024317147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1677024317649	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677024328223	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677024426934	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677024736134	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812089	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812102	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812113	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812121	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812945	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812972	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812975	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024812991	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024813006	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1677024813039	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677025183157	geckodriver	INFO	Listening on 127.0.0.1:54922
+1677025183666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54923" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilei0og0L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677025183993	Marionette	INFO	Marionette enabled
+1677025184126	Marionette	INFO	Listening on port 54930
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54923
+Read port: 54930
+1677025184291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilei0og0L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54923/devtools/browser/e7352aec-5e57-4075-a4df-ac7744d011a4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3Dol_1Y8TJDtKhgQa2xq2gDA%26iflsig%3DAK50M_UAAAAAY_Vtsu04MsXM0ijulmSHyrsszHkhtzyL%26ved%3D0ahUKEwjEooXU7af9AhXSUMAKHTZjC8QQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgtYDRoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGKS_1Z8GIjCzUkSJR9bohiEUWJxnZAnOUiGqHV4X3Kjk7czvB0iKcSzePY9QqScHz7RzuLPIVCwyAXI, line 1: SyntaxError: expected expression, got ','
+1677101362303	geckodriver	INFO	Listening on 127.0.0.1:64429
+1677101362811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64430" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqYuV5s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677101363231	Marionette	INFO	Marionette enabled
+1677101363282	Marionette	INFO	Listening on port 64440
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64440
+WebDriver BiDi listening on ws://127.0.0.1:64430
+1677101363373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqYuV5s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64430/devtools/browser/1ba741d2-6b13-4fee-8b3f-9ecc329d893f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677101396700	geckodriver	INFO	Listening on 127.0.0.1:64535
+1677101396705	geckodriver	INFO	Listening on 127.0.0.1:64537
+1677101396706	geckodriver	INFO	Listening on 127.0.0.1:64539
+1677101396709	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64536" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJGY5qI"
+1677101396715	geckodriver	INFO	Listening on 127.0.0.1:64541
+1677101396718	geckodriver	INFO	Listening on 127.0.0.1:64551
+1677101396718	geckodriver	INFO	Listening on 127.0.0.1:64553
+1677101396719	geckodriver	INFO	Listening on 127.0.0.1:64557
+1677101396720	geckodriver	INFO	Listening on 127.0.0.1:64555
+1677101396720	geckodriver	INFO	Listening on 127.0.0.1:64559
+1677101396722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64542" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile1NzV7Y"
+1677101396725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64554" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFQRFDE"
+1677101396729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64558" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDwZlHb"
+1677101396729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64560" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileva2niu"
+1677101396732	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64556" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileUrhQ6b"
+1677101396772	geckodriver	INFO	Listening on 127.0.0.1:64585
+1677101396781	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64586" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQVQRFK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677101397228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64538" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilegaauQV"
+1677101397236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64540" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilez4RBDm"
+1677101397262	Marionette	INFO	Marionette enabled
+1677101397264	Marionette	INFO	Marionette enabled
+1677101397270	Marionette	INFO	Marionette enabled
+1677101397270	Marionette	INFO	Marionette enabled
+1677101397277	Marionette	INFO	Marionette enabled
+1677101397277	Marionette	INFO	Marionette enabled
+1677101397292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64552" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile2eyS4t"
+1677101397330	Marionette	INFO	Marionette enabled
+1677101397361	Marionette	INFO	Listening on port 64607
+1677101397364	Marionette	INFO	Listening on port 64608
+1677101397370	Marionette	INFO	Listening on port 64609
+1677101397371	Marionette	INFO	Listening on port 64610
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677101397398	Marionette	INFO	Listening on port 64611
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64608
+1677101397444	Marionette	INFO	Listening on port 64613
+Read port: 64613
+Read port: 64609
+Read port: 64607
+1677101397461	Marionette	INFO	Listening on port 64617
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64610
+Read port: 64611
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64617
+WebDriver BiDi listening on ws://127.0.0.1:64542
+WebDriver BiDi listening on ws://127.0.0.1:64560
+WebDriver BiDi listening on ws://127.0.0.1:64558
+WebDriver BiDi listening on ws://127.0.0.1:64536
+WebDriver BiDi listening on ws://127.0.0.1:64556
+1677101397585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:64554
+WebDriver BiDi listening on ws://127.0.0.1:64586
+1677101397614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677101397635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677101397650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677101397650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677101397655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677101397658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677101398029	Marionette	INFO	Marionette enabled
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677101398101	Marionette	INFO	Listening on port 64635
+1677101398109	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64635
+1677101398182	Marionette	INFO	Listening on port 64637
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 64637
+1677101398258	Marionette	INFO	Marionette enabled
+1677101398327	Marionette	INFO	Listening on port 64639
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:64538
+Read port: 64639
+WebDriver BiDi listening on ws://127.0.0.1:64552
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1677101398509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+WebDriver BiDi listening on ws://127.0.0.1:64540
+1677101398591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile1NzV7Y/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFQRFDE/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileva2niu/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileDwZlHb/search.json.mozlz4", (void 0)))
+1677101398702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJGY5qI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64554/devtools/browser/e8aae16c-b36e-4938-9b62-6a9d5beee972
+DevTools listening on ws://127.0.0.1:64542/devtools/browser/346f57dc-b8a4-479a-b3d1-12dfe4392b9e
+DevTools listening on ws://127.0.0.1:64560/devtools/browser/ac8206ba-edd7-4f91-ac2a-3883d7e9e2bf
+DevTools listening on ws://127.0.0.1:64558/devtools/browser/513564b1-4a43-4ca6-b77a-a8c3f73e0f91
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileUrhQ6b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64536/devtools/browser/74a784a5-f256-4540-84e2-bfde9bc7e1a1
+DevTools listening on ws://127.0.0.1:64556/devtools/browser/6266a470-543c-43fa-919c-6e4c5281bb76
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQVQRFK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64586/devtools/browser/a72cfe24-1338-4564-bcc2-51af2de7bf5a
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile2eyS4t/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilegaauQV/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilez4RBDm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64552/devtools/browser/d87142fb-2533-41ca-8df8-c63a0218d2d9
+DevTools listening on ws://127.0.0.1:64538/devtools/browser/8ab5ecdb-852e-49af-af2e-34968a17e25e
+DevTools listening on ws://127.0.0.1:64540/devtools/browser/b76b7461-c203-425a-9e8c-d4c870b25f85
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DWon2Y_2nFumX9u8P5uCIoAc%26iflsig%3DAK50M_UAAAAAY_aXal8VV96uGmNiJd-SQ8AGuRTQcOuw%26ved%3D0ahUKEwj9vNzKiar9AhXpi_0HHWYwAnQQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFhEYE1oAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgms3aGOWS2p8GIjBP2n-703QbHn2gQapbnDnVfCJaALQ8A00oAa42xS2eJkrZI60vsZtpz4Ys1sx62gMyAXI, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DWon2Y9LlAu2O9u8P3rS1sAE%26iflsig%3DAK50M_UAAAAAY_aXal8NCD6UcoggnS2SGIRN77C7NGNL%26ved%3D0ahUKEwjS-sjKiar9AhVth_0HHV5aDRYQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFg1YD5oAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGOaS2p8GIjBEI3Af_HXicBH91cUAT5fNRGk1s9AazGkY4G0iu3PpZmr8fRZoSLIHvGEt_pWF6rEyAXI, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DWon2Y5OIO6KE9u8PiuGCmAI%26iflsig%3DAK50M_UAAAAAY_aXamLmycrsu5A4cMmCBtHgiG2J9hsG%26ved%3D0ahUKEwiTnYHLiar9AhUigv0HHYqwACMQ4dUDCAg%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFg0YD1oAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgms3aGOeS2p8GIjABKQ3M0j6YCBoF8asyHQBun9iWyB_ciS-XBzb0KFPIV54h6tdigPcfx6tynRB_vHwyAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DWon2Y82yHtPZ7_UPnqib-A8%26iflsig%3DAK50M_UAAAAAY_aXaqwqmVOVUVF4sWZHLiN5NCPIReF_%26ved%3D0ahUKEwjNx-TKiar9AhXT7LsIHR7UBv8Q4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFg1YD5oAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGOiS2p8GIjAchl-J0hzqAdtMLzb-TJae5UH41nzA7RSq0spaHcJ4ZM4Yv5RBR67WS8sUwJMzpS8yAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DWon2Y8PsF-6T9u8PvLqp-As%26iflsig%3DAK50M_UAAAAAY_aXasGWvHVFwqdhbuUE6lcJUY-224Tp%26ved%3D0ahUKEwjDgd7Kiar9AhXuif0HHTxdCr8Q4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgwYDpoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGOiS2p8GIjDbY8j0SU_Xp0_AGTdd-HtFK2sATpxXPVBmtb0FvXshhoii_VALzdxzKxWFQcAJL3cyAXI, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DWon2Y822KI797_UPlfyl2A4%26iflsig%3DAK50M_UAAAAAY_aXajV6ctaSCAUnG9MfeOaLbh1aeAmy%26ved%3D0ahUKEwjNy-7Kiar9AhWO_rsIHRV-CesQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFg2YD1oAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgms3aGOqS2p8GIjDnzII877R_f_kWBw8T7A9JhR1Ft0p9gvViEyhiwmgq0rVdpoVfbQnJPtnkGw4Yc9EyAXI, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DWon2Y424LoSN9u8P7p6yIA%26iflsig%3DAK50M_UAAAAAY_aXaqHO-3HfubsV3V-5axp1aQ8uVjhA%26ved%3D0ahUKEwiNzfTKiar9AhWEhv0HHW6PDAQQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFguYDZoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgms3aGPaS2p8GIjBejhA27DS2eCMsnpqVlRA0cWs16jvp4KcNjDxnG5zAVDWW9Zhmy0IEGy8BKwEagDYyAXI, line 1: SyntaxError: expected expression, got ','
+1677102470965	geckodriver	INFO	Listening on 127.0.0.1:49426
+1677102471470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49427" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileKc3oAy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677102471881	Marionette	INFO	Marionette enabled
+1677102471935	Marionette	INFO	Listening on port 49434
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49434
+WebDriver BiDi listening on ws://127.0.0.1:49427
+1677102472028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileKc3oAy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49427/devtools/browser/9f2c32dd-9d03-4144-ba39-a47e074beb1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DjI32Y4LOBPKX7_UPhOaQoAY%26iflsig%3DAK50M_UAAAAAY_abnMqJaG95ihMXzVGA-Hd-0LROQzLK%26ved%3D0ahUKEwiCxNrKjar9AhXyy7sIHQQzBGQQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgsYDVoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGJGb2p8GIjBTyIhihMpkvj6iu2nOo_1x0ZIsEOXCCqt9upGs3LR0FDXiObHDE6okDBv82TbrYXYyAXI, line 1: SyntaxError: expected expression, got ','
+1677102590513	geckodriver	INFO	Listening on 127.0.0.1:49536
+1677102591022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49537" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5jfHFZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677102591383	Marionette	INFO	Marionette enabled
+1677102591432	Marionette	INFO	Listening on port 49544
+Read port: 49544
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49537
+1677102591517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5jfHFZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49537/devtools/browser/f5f6dbf2-e81b-4106-a051-7f44b73768b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677102621158	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677102627467	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49655
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49649
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49657
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49651
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49647
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49644
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49653
+1677102629011	geckodriver	INFO	Listening on 127.0.0.1:49643
+1677102629012	geckodriver	INFO	Listening on 127.0.0.1:49659
+1677102629016	geckodriver	INFO	Listening on 127.0.0.1:49661
+1677102629028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49658" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilepn3sHi"
+1677102629029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49650" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileAldI4N"
+1677102629029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49648" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqzrQ3q"
+1677102629029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49646" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileS8bi4B"
+1677102629029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49652" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileUbQ4rs"
+1677102629030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49660" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilegbKF2g"
+1677102629030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49654" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile3K1vSy"
+1677102629031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49645" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileR8siE6"
+1677102629032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49656" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile3dDGu3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677102629547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49662" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilefICxFN"
+1677102629638	Marionette	INFO	Marionette enabled
+1677102629644	Marionette	INFO	Marionette enabled
+1677102629648	Marionette	INFO	Marionette enabled
+1677102629650	Marionette	INFO	Marionette enabled
+1677102629651	Marionette	INFO	Marionette enabled
+1677102629665	Marionette	INFO	Marionette enabled
+1677102629690	Marionette	INFO	Marionette enabled
+1677102629695	Marionette	INFO	Marionette enabled
+1677102629719	Marionette	INFO	Marionette enabled
+1677102629730	Marionette	INFO	Listening on port 49715
+1677102629742	Marionette	INFO	Listening on port 49716
+1677102629751	Marionette	INFO	Listening on port 49717
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677102629757	Marionette	INFO	Listening on port 49718
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677102629767	Marionette	INFO	Listening on port 49719
+Read port: 49715
+Read port: 49718
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49717
+Read port: 49719
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49716
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677102629792	Marionette	INFO	Listening on port 49725
+1677102629812	Marionette	INFO	Listening on port 49726
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677102629848	Marionette	INFO	Listening on port 49727
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49725
+Read port: 49726
+Read port: 49727
+1677102629895	Marionette	INFO	Listening on port 49731
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:49650
+WebDriver BiDi listening on ws://127.0.0.1:49656
+WebDriver BiDi listening on ws://127.0.0.1:49645
+WebDriver BiDi listening on ws://127.0.0.1:49660
+Read port: 49731
+WebDriver BiDi listening on ws://127.0.0.1:49652
+WebDriver BiDi listening on ws://127.0.0.1:49654
+1677102630007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677102630009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:49658
+1677102630047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:49646
+1677102630051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677102630092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WebDriver BiDi listening on ws://127.0.0.1:49648
+1677102630100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677102630101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677102630114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677102630181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677102630247	Marionette	INFO	Marionette enabled
+1677102630353	Marionette	INFO	Listening on port 49734
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49734
+WebDriver BiDi listening on ws://127.0.0.1:49662
+1677102630628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilepn3sHi/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile3dDGu3/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileS8bi4B/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile3K1vSy/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqzrQ3q/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileAldI4N/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileUbQ4rs/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilegbKF2g/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileR8siE6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49658/devtools/browser/9371f69e-6866-4c51-8445-092afb98f27b
+DevTools listening on ws://127.0.0.1:49656/devtools/browser/cf4195a3-e710-4c50-9b1a-e483d6dfad39
+DevTools listening on ws://127.0.0.1:49650/devtools/browser/630fac42-183e-4121-aa89-70ad5aecb217
+DevTools listening on ws://127.0.0.1:49646/devtools/browser/3f4e3eb6-d456-428a-b5a4-4f0958189147
+DevTools listening on ws://127.0.0.1:49654/devtools/browser/3bb317cc-cbfc-4c55-804c-07f9683ab4f4
+DevTools listening on ws://127.0.0.1:49648/devtools/browser/805e1daf-b4d6-41d3-8317-786f5033efa0
+DevTools listening on ws://127.0.0.1:49652/devtools/browser/251e2421-0520-4b3f-bd54-af05b52d8f9c
+DevTools listening on ws://127.0.0.1:49645/devtools/browser/012129da-d97b-4b39-83c0-ffa17f5b251b
+DevTools listening on ws://127.0.0.1:49660/devtools/browser/bda8491f-f45d-403b-9025-8b7e3ce84bfe
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilefICxFN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49662/devtools/browser/f2673c29-d822-47ff-b395-e91c3e7604fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DKo72Y9v-NvK69u8PptSDuAg%26iflsig%3DAK50M_UAAAAAY_acOn88lv3Ds63BKUnPIPtuJBog687O%26ved%3D0ahUKEwjbu7iWjqr9AhVynf0HHSbqAIcQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgvYDdoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGLKc2p8GIjDrRiaZJw5YufZhODaI36RIv_fkrCdoOIn9WK8rZxIuMxQpA5tlN6hA0jSmBl10JrkyAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DKo72Y47nMPuJxc8PseqxsAU%26iflsig%3DAK50M_UAAAAAY_acOhnpd5fezA6oZJFaued21cVFZ0_X%26ved%3D0ahUKEwiOpLKWjqr9AhX7RPEDHTF1DFYQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFg4YERoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGLKc2p8GIjAyU7pooPqGFwoJlrKzGbCzHTya5Qn8Mu3WqNen6jB9UTSyx6v7pk6vtdSsc4fBWIIyAXI, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DKo72Y4W0C4Ti7_UP_LqVuAk%26iflsig%3DAK50M_UAAAAAY_acOrN9NplhEsWqsBicARxvBUJwQFz2%26ved%3D0ahUKEwiF8YyWjqr9AhUE8bsIHXxdBZcQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgzYD1oAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGLWc2p8GIjBZ9fQxOIYIc9isOlFBUMWNrEHmkWvwpzyIPxdZBjMyNhlqHnHJlSNrPjAZOHvvACIyAXI, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DLI72Y6G8E_uSxc8P-fmwoA4%26iflsig%3DAK50M_UAAAAAY_acPIhZjMd09w-CR2pGpeklEcqj9DDm%26ved%3D0ahUKEwihgo-Xjqr9AhV7SfEDHfk8DOQQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgwYDloAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGLec2p8GIjClO-_QEeq25VxOIngskwpeWUykCU1pxATLJKM_vwmNE4PSiZUR9O54vsnJ1v-yddcyAXI, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DKo72Y6GlJIHr7_UPw7eU2A0%26iflsig%3DAK50M_UAAAAAY_acOiMS4eYakCVohZa-AQ5RbI_UnaT9%26ved%3D0ahUKEwih4qWWjqr9AhWB9bsIHcMbBdsQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgvYDhoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGLuc2p8GIjBCR1Jrk0YfCQk7jBhfbQe5NSuoeFErdJCTJnYwUAteKka-_T2fASG38kCj3YXu2YcyAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DKo72Y6O7FtvYxc8P2ZOqmAk%26iflsig%3DAK50M_UAAAAAY_acOqNMUG9xaf0UVsACaCOugpAB0xJL%26ved%3D0ahUKEwij-JeWjqr9AhVbbPEDHdmJCpMQ4dUDCAg%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgwYDloAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGLyc2p8GIjCuq0PSBw6l4tA3A6slB6Abnz7WhfxLz7-46SmxO-d7qu8cXVpI5X9CKN9DSobOZaMyAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DLI72Y_Jd7ozFzw-rhrjAAg%26iflsig%3DAK50M_UAAAAAY_acPL6u0TS7Xq6gb57cHXTxN55pqzXU%26ved%3D0ahUKEwjyo_yWjqr9AhVuRvEDHSsDDigQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgwYDhoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGL2c2p8GIjAmFK6jjLWitOGrSfagvjaEZHGyKd_w2vH2HOc13juOBQxQdwWddULTZ7QYnjRIpqEyAXI, line 1: SyntaxError: expected expression, got ','
+1677102653887	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DKo72Y6qoL42qxc8P0PyWoAk%26iflsig%3DAK50M_UAAAAAY_acOqOwkVr5VDYvUIVRuUpXb76cf7uA%26ved%3D0ahUKEwiq5bCWjqr9AhUNVfEDHVC-BZQQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgwYDloAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGMCc2p8GIjBjbArbky1gSRX2DtStIOor9-AcvQOZYi81fBGxfr9-9V9Q2W055RAWLmCSSd-GdH4yAXI, line 1: SyntaxError: expected expression, got ','
+1677102674813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677103301854	geckodriver	INFO	Listening on 127.0.0.1:50849
+1677103302359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50850" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelh4TjZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677103302694	Marionette	INFO	Marionette enabled
+1677103302746	Marionette	INFO	Listening on port 50859
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50859
+WebDriver BiDi listening on ws://127.0.0.1:50850
+1677103302893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelh4TjZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50850/devtools/browser/dfe36b29-c18e-4b37-87ef-fe3a5eac5f5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DypD2Y8PsObSI9u8PltymsAo%26iflsig%3DAK50M_UAAAAAY_ae2hfDXaNt8yZe6OjOuXhkqxkQZe1r%26ved%3D0ahUKEwjD-fLWkKr9AhU0hP0HHRauCaYQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgvYDZoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGNGh2p8GIjAuWYze9ArEyof_lm8lxFqhxZIGA2PE63E_-20S4DqIzQxIz2fISaYYE8WczRsQ4VgyAXI, line 1: SyntaxError: expected expression, got ','
+1677104885901	geckodriver	INFO	Listening on 127.0.0.1:51821
+1677104886412	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51822" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5RewTB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677104886789	Marionette	INFO	Marionette enabled
+1677104886842	Marionette	INFO	Listening on port 51831
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51822
+Read port: 51831
+1677104887044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile5RewTB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51822/devtools/browser/68667e49-c7a7-448c-8b5c-8f4e1dbd7273
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3D-5b2Y4D8EtOF9u8P1ZSNCA%26iflsig%3DAK50M_UAAAAAY_alC9IzafzJ2Rcx3iKH_pjtcq0-xfS4%26ved%3D0ahUKEwjA5bDKlqr9AhXTgv0HHVVKAwEQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgrYDRoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGICu2p8GIjBrfuuy4yGrMIgTasYtoPnmES69EfdVA6HWL9QEDhC_bcZHmEaJGvSfGzz1bW9pT2MyAXI, line 1: SyntaxError: expected expression, got ','
+1677105033242	geckodriver	INFO	Listening on 127.0.0.1:51954
+1677105033750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51955" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelPWbNA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105034119	Marionette	INFO	Marionette enabled
+1677105034168	Marionette	INFO	Listening on port 51962
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51955
+Read port: 51962
+1677105034376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelPWbNA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51955/devtools/browser/7d85de82-5dc7-41a5-8545-e8c24fc89434
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1677105070127	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677105109288	geckodriver	INFO	Listening on 127.0.0.1:52060
+1677105109292	geckodriver	INFO	Listening on 127.0.0.1:52058
+1677105109292	geckodriver	INFO	Listening on 127.0.0.1:52062
+1677105109292	geckodriver	INFO	Listening on 127.0.0.1:52056
+1677105109297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52061" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileRizwNw"
+1677105109315	geckodriver	INFO	Listening on 127.0.0.1:52068
+1677105109317	geckodriver	INFO	Listening on 127.0.0.1:52070
+1677105109320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52059" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile0cGuSQ"
+1677105109316	geckodriver	INFO	Listening on 127.0.0.1:52064
+1677105109321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52063" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqPKkGw"
+1677105109334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52065" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileMnZGRC"
+1677105109334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52069" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelOA458"
+1677105109342	geckodriver	INFO	Listening on 127.0.0.1:52080
+1677105109343	geckodriver	INFO	Listening on 127.0.0.1:52082
+1677105109344	geckodriver	INFO	Listening on 127.0.0.1:52091
+1677105109349	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52092" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile2nTwH9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105109791	Marionette	INFO	Marionette enabled
+1677105109791	Marionette	INFO	Marionette enabled
+1677105109795	Marionette	INFO	Marionette enabled
+1677105109797	Marionette	INFO	Marionette enabled
+1677105109798	Marionette	INFO	Marionette enabled
+1677105109801	Marionette	INFO	Marionette enabled
+1677105109831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52057" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofiledwiCgN"
+1677105109870	Marionette	INFO	Listening on port 52121
+1677105109874	Marionette	INFO	Listening on port 52124
+Read port: 52121
+1677105109878	Marionette	INFO	Listening on port 52126
+1677105109882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52081" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelAvpSd"
+1677105109888	Marionette	INFO	Listening on port 52127
+1677105109888	Marionette	INFO	Listening on port 52128
+1677105109889	Marionette	INFO	Listening on port 52129
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677105109896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52071" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileH7928L"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677105109925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52083" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJwu5z5"
+Read port: 52126
+Read port: 52128
+Read port: 52124
+Read port: 52127
+Read port: 52129
+WebDriver BiDi listening on ws://127.0.0.1:52092
+WebDriver BiDi listening on ws://127.0.0.1:52061
+WebDriver BiDi listening on ws://127.0.0.1:52069
+WebDriver BiDi listening on ws://127.0.0.1:52065
+WebDriver BiDi listening on ws://127.0.0.1:52063
+WebDriver BiDi listening on ws://127.0.0.1:52059
+1677105110067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105110110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105110112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105110116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105110118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105110138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105110524	Marionette	INFO	Marionette enabled
+1677105110525	Marionette	INFO	Marionette enabled
+1677105110563	Marionette	INFO	Marionette enabled
+1677105110586	Marionette	INFO	Listening on port 52137
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677105110620	Marionette	INFO	Listening on port 52138
+Read port: 52138
+1677105110629	Marionette	INFO	Listening on port 52140
+Read port: 52140
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52081
+WebDriver BiDi listening on ws://127.0.0.1:52071
+Read port: 52137
+1677105110726	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://127.0.0.1:52057
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+1677105110881	Marionette	INFO	Listening on port 52143
+Read port: 52143
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677105110933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1677105110977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105110979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileRizwNw/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileMnZGRC/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+WebDriver BiDi listening on ws://127.0.0.1:52083
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileqPKkGw/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile2nTwH9/search.json.mozlz4", (void 0)))
+1677105111220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+DevTools listening on ws://127.0.0.1:52061/devtools/browser/0c9853ef-e888-4221-a571-58cf4ab538be
+DevTools listening on ws://127.0.0.1:52063/devtools/browser/394b41e0-6c4e-49bc-b3e9-a39fa6886478
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52065/devtools/browser/1339e321-2b2f-47ca-8987-4095d2dde0e5
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+DevTools listening on ws://127.0.0.1:52092/devtools/browser/23a2397c-9a0b-4144-8d10-63d7e49e20cd
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile0cGuSQ/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelOA458/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52059/devtools/browser/ec1ee424-d0e9-4565-8038-fcc28bdc385f
+1677105111866	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1677105111972	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+DevTools listening on ws://127.0.0.1:52069/devtools/browser/2748481c-efb2-47d7-a169-858c492191dc
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelAvpSd/search.json.mozlz4", (void 0)))
+1677105112085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofiledwiCgN/search.json.mozlz4", (void 0)))
+1677105112134	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+DevTools listening on ws://127.0.0.1:52081/devtools/browser/b3f853b1-d332-45d7-89bc-1b49c864fd3f
+DevTools listening on ws://127.0.0.1:52057/devtools/browser/63c0e950-5049-4728-bf39-7b5636b0299f
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJwu5z5/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileH7928L/search.json.mozlz4", (void 0)))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+1677105112638	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+DevTools listening on ws://127.0.0.1:52083/devtools/browser/869ad115-d72e-4a61-a0c6-7b1cefe456a6
+DevTools listening on ws://127.0.0.1:52071/devtools/browser/2f6d4ea0-c7ef-48d3-89be-71d9791b4fce
+1677105112863	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677105112906	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677105113685	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677105113875	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677105113924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1677105113984	geckodriver	INFO	Listening on 127.0.0.1:52170
+1677105113984	geckodriver	INFO	Listening on 127.0.0.1:52168
+1677105114028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52171" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileAKh198"
+1677105114113	geckodriver	INFO	Listening on 127.0.0.1:52183
+1677105114191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52184" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQQlRj5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105114224	geckodriver	INFO	Listening on 127.0.0.1:52189
+1677105114410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52190" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile20eU4z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105114468	Marionette	INFO	Marionette enabled
+1677105114511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52169" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileBQU4ms"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105114700	Marionette	INFO	Listening on port 52201
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677105114746	Marionette	INFO	Marionette enabled
+Read port: 52201
+WebDriver BiDi listening on ws://127.0.0.1:52171
+1677105114796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105114802	Marionette	INFO	Listening on port 52203
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52203
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105114912	geckodriver	INFO	Listening on 127.0.0.1:52205
+1677105114947	Marionette	INFO	Marionette enabled
+1677105115008	Marionette	INFO	Listening on port 52212
+1677105115018	geckodriver	INFO	Listening on 127.0.0.1:52207
+1677105115025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52206" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileiEcXPy"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52212
+WebDriver BiDi listening on ws://127.0.0.1:52184
+1677105115072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105115119	Marionette	INFO	Marionette enabled
+1677105115178	Marionette	INFO	Listening on port 52231
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677105115214	geckodriver	INFO	Listening on 127.0.0.1:52228
+1677105115226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52229" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJcXpxV"
+Read port: 52231
+1677105115253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52208" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQu49NO"
+WebDriver BiDi listening on ws://127.0.0.1:52190
+1677105115336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+WebDriver BiDi listening on ws://127.0.0.1:52169
+1677105115491	Marionette	INFO	Marionette enabled
+1677105115509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileAKh198/search.json.mozlz4", (void 0)))
+1677105115555	Marionette	INFO	Listening on port 52251
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Read port: 52251
+DevTools listening on ws://127.0.0.1:52171/devtools/browser/27808916-9959-4dab-b039-197d660c77a9
+WebDriver BiDi listening on ws://127.0.0.1:52206
+1677105115822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105115896	Marionette	INFO	Marionette enabled
+1677105115908	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1677105115987	Marionette	INFO	Listening on port 52259
+1677105115998	Marionette	INFO	Listening on port 52260
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52259
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+Read port: 52260
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQQlRj5/search.json.mozlz4", (void 0)))
+WebDriver BiDi listening on ws://127.0.0.1:52208
+WebDriver BiDi listening on ws://127.0.0.1:52229
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofile20eU4z/search.json.mozlz4", (void 0)))
+1677105116345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105116349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52184/devtools/browser/c6066cf6-5907-4a40-94fc-99bb98dc2613
+DevTools listening on ws://127.0.0.1:52190/devtools/browser/523e0f5d-bb65-4ace-a1f5-ab7f03c86cde
+1677105116752	geckodriver	INFO	Listening on 127.0.0.1:52281
+1677105116811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52282" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFYlJnb"
+1677105116814	geckodriver	INFO	Listening on 127.0.0.1:52287
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1677105116938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52288" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelEhI1k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileBQU4ms/search.json.mozlz4", (void 0)))
+1677105117200	Marionette	INFO	Marionette enabled
+1677105117242	geckodriver	INFO	Listening on 127.0.0.1:52301
+1677105117265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52302" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileAsXyYP"
+1677105117277	Marionette	INFO	Listening on port 52309
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52309
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileiEcXPy/search.json.mozlz4", (void 0)))
+1677105117400	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://127.0.0.1:52282
+1677105117467	Marionette	INFO	Listening on port 52315
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+DevTools listening on ws://127.0.0.1:52169/devtools/browser/6b80e876-978a-43ed-a7d3-f8385ad7cda1
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1677105117506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 52315
+WebDriver BiDi listening on ws://127.0.0.1:52288
+DevTools listening on ws://127.0.0.1:52206/devtools/browser/6cd31292-d3ea-4aa7-b424-2e4a770d0e58
+1677105117743	Marionette	INFO	Marionette enabled
+1677105117757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677105117791	Marionette	INFO	Listening on port 52338
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52338
+WebDriver BiDi listening on ws://127.0.0.1:52302
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileJcXpxV/search.json.mozlz4", (void 0)))
+1677105118269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileQu49NO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52229/devtools/browser/1ba1fda7-2e49-45e4-94b7-7c012e2c186c
+DevTools listening on ws://127.0.0.1:52208/devtools/browser/fd86ebf1-7d41-46bf-924e-279dff5dfb18
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileFYlJnb/search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofilelEhI1k/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileAsXyYP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52282/devtools/browser/4a0c602f-3b7e-432a-a70b-017194a67112
+DevTools listening on ws://127.0.0.1:52288/devtools/browser/6f54b5e3-ac25-41b9-b250-c4ae4566cb35
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+DevTools listening on ws://127.0.0.1:52302/devtools/browser/cb890f92-32f0-49c5-b1b3-ea5206b41381
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DLpj2Y53PBqmP9u8Pqu2ngAI%26iflsig%3DAK50M_UAAAAAY_amPqsg-9lvkYcPZhvxIGHDUB52Hsub%26ved%3D0ahUKEwidntbcl6r9AhWph_0HHar2CSAQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgrYDRoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgRp629JGLOw2p8GIjCn8FNC2qaThzXLvHG5Hg-bCJCAAbeloPJIFpEVwTSJb3daNqhZS33fepgqoIeMAlAyAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DLpj2Y5L7J6yE9u8PjfyZkA8%26iflsig%3DAK50M_UAAAAAY_amPnGZf5lr2_ijUp4d0eJ14C8guiFx%26ved%3D0ahUKEwiSyvfcl6r9AhUsgv0HHQ1-BvIQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgvYDloAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGLOw2p8GIjBx3J2JkptYgVm--0DEJCKhCKvD405wKiUXlUMdrEcep39RpoNtg2NwAbl04yiq17UyAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DL5j2Y6XfCYjs7_UPu9Ko4Aw%26iflsig%3DAK50M_UAAAAAY_amP-kWnf5iYrqwNCGcUfwgX48DED0j%26ved%3D0ahUKEwjlspbdl6r9AhUI9rsIHTspCswQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFguYDZoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGLOw2p8GIjCqnC-A2VcjbXKnKz4_E4tEPTM0rSQg7mlrw_At2-peCU0YTD1ppF6OYT2WeoFLUc0yAXI, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DL5j2Y8KuFO679u8Ps6iq-AM%26iflsig%3DAK50M_UAAAAAY_amP5S2J7rjPAKB8NueCHxWwCo7zr5m%26ved%3D0ahUKEwiCgqHdl6r9AhXunf0HHTOUCj8Q4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgtYDVoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgmsgGGLSw2p8GIjAOmvX4t7oEPpnLI7SkcPjb0OF0JX21Y8nDxoZUjnNKH2-OKasI8FHpXmvYHBZ7JwgyAXI, line 1: SyntaxError: expected expression, got ','
+1677105410500	geckodriver	INFO	Listening on 127.0.0.1:52748
+1677105411011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52749" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileB3v2e9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677105411351	Marionette	INFO	Marionette enabled
+1677105411400	Marionette	INFO	Listening on port 52756
+Read port: 52756
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52749
+1677105411548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/93/159yhqzd4kjgvy5_3lt16knc0000gn/T/rust_mozprofileB3v2e9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52749/devtools/browser/9cab61b0-1d0f-44e2-82e6-e618481911ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26source%3Dhp%26ei%3DB5n2Y7jSE6iQ9u8P2oCtsAg%26iflsig%3DAK50M_UAAAAAY_anF6y42qcnZeLcYY1hL9K4jtdN5agS%26ved%3D0ahUKEwj48Z_EmKr9AhUoiP0HHVpAC4YQ4dUDCAc%26uact%3D5%26oq%3Dsite%253Afacebook.com%2BAND%2522%2528gonzague%2B%2522OR%2522%2Bkoumassi%2529%2B%2522AND%2B%2522maison%2522%26gs_lcp%3DCgdnd3Mtd2l6EANQAFgvYDZoAHAAeACAAQCIAQCSAQCYAQCgAQE%26sclient%3Dgws-wiz&q=EgSgms3aGIuy2p8GIjDk2u_jJPFIsKgGmzkeovPeehv0j3tYo1pzjuxT853drDXwnvUXBr4qkhkNvomzCxUyAXI, line 1: SyntaxError: expected expression, got ','
