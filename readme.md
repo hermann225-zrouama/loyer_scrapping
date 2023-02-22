@@ -1,5 +1,8 @@
 # Projet Scrapinator
 
+- ZROUAMA FRANCK HERMANN DEBAH
+- KOUADIO MARC N'ZI 
+
 Le projet Scrapinator est un outil de web scraping qui permet d'extraire des données à partir de pages web (facebook). Le projet est organisé en plusieurs dossiers, chacun ayant une fonction spécifique.
 
 # AVANT TOUTE CHOSE VEUILLEZ INSTALLER CORRECTEMENT TENSORFLOW POUR LE BON FONCTIONNEMENT DU PACKAGE *SPACY*
